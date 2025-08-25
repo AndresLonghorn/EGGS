@@ -13,7 +13,14 @@ However as of June 2025, the average retail price is still trend above pre HPAI 
 * Price manipulation and increased profits for egg manufactors and wholesellers.
 
 ## Egg Production
-Cal-Maine Foods appears to be the largest producer of eggs in the United States. 
+Cal-Maine Foods appears to be the largest producer of eggs in the United States.
+I will be using exclusively being using them as their operations are estimated to be somewhere between 25% to 30% of the market and thus the biggest influence for retailer like Walmart & Sam's Club, Kroger, Publix, Albertsons, HEB, Safeway, and Costco. 
+Cal-Maine 
+<img width="1126" height="777" alt="image" src="https://github.com/user-attachments/assets/5398ee8a-fba2-4d30-81f0-420b5af2cbd2" />
+
+### Sources:
+*U.S. Department of Agriculture, Animal and Plant Health Inspection Service. (2025, May 22). Highly pathogenic avian influenza emergency response. https://www.aphis.usda.gov/animal-emergencies/hpai)
 * O’Keefe, T. (2025, January). The challenging and the good for US egg producers in 2025. Egg Industry. https://www.eggindustry-digital.com/eggindustry/january_2025/MobilePagedArticle.action?articleId=2032459
 * Dawson, M. (2024, February 5). Top 25 US egg producers in 2024. WATT Global Media. https://www.wattagnet.com/egg/article/15663503/top-25-us-egg-producers-in-2024
 * EssFeed. (2024, March 18). USA top 10 egg producers. https://essfeed.com/usa-top-10-egg-producers/
+
