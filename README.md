@@ -15,7 +15,10 @@ However as of June 2025, the average retail price is still trend above pre HPAI 
 ## Egg Production
 Cal-Maine Foods appears to be the largest producer of eggs in the United States. They service grocery retailers like Walmart & Sam's Club, Kroger, Publix, Albertsons, HEB, Safeway, and Costco. 
 Per their annual 10-k reports from 2024 & 2022, business growth is associated with acquisitions, production expansion, and revenue growth.
-**2024
+* Revenue In 2024, 2023, and 2022 Cal-Maine has acquired egg production assets(hens, about 4.7 million) contributing to positive revenue growth. Net sales increased from $1.78 billion in 2022 FY to $2.33 billion in 2024 FY. The main contributors are from specialty eggs like cage-free and organic eggs that contributed to 36.5% of 2022 FY revenue to 39.8% respectively. 
+
+Cost of Goods:
+<img width="559" height="195" alt="image" src="https://github.com/user-attachments/assets/3737e282-1d33-413c-87ec-82a55cab41e6" />
 
 ### Sources:
 *U.S. Department of Agriculture, Animal and Plant Health Inspection Service. (2025, May 22). Highly pathogenic avian influenza emergency response. https://www.aphis.usda.gov/animal-emergencies/hpai)
