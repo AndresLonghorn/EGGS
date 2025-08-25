@@ -25,8 +25,6 @@ Per the Executive Overview of Results from 2024 & 2022, business growth was driv
 In 2024, 2023, and 2022 Cal-Maine has acquired egg production assets(hens, about 4.7 million) contributing to positive revenue growth. Net sales increased from $1.78 billion in 2022 FY to $2.33 billion in 2024 FY. The main contributors are from specialty eggs like cage-free and organic eggs that contributed to 36.5% of 2022 FY revenue to 39.8% respectively.
   <img width="704" height="125" alt="image" src="https://github.com/user-attachments/assets/49fc0150-9687-4c84-b108-30250ec0c336" />
 
-
-
 ### Cost of Goods:
 *2021 - 2022 
  Feeding costs per dozen rose about 28%. 
@@ -34,9 +32,22 @@ In 2024, 2023, and 2022 Cal-Maine has acquired egg production assets(hens, about
  Amortization costs increased as well since more hens were obtained through M&A's. 
 
 *2023 - 2024
- COGS dropped due to lower sales
- Feeding cost of hend also decreased. Reasons noted were to lower corn and soybean meal prices. Feeding contracts that were entered in  
+ Total COGS dropped due to lower sales, bird flu.
+ Feeding cost of hend also decreased. Reasons noted were to lower corn and soybean meal prices helped production costs stay low.
 <img width="559" height="195" alt="image" src="https://github.com/user-attachments/assets/3737e282-1d33-413c-87ec-82a55cab41e6" />
+
+
+### Earnings for Shareholders
+ * EPS has trended upwards since 2020. Basic EPS has changed from $0.38, $0.04, $2.73, $15.58, $5.70. Higher EPS has been attributed to higher prices and lower expenses due to HPAI.
+ * Other egg manufactors and wholesellers have been following a similar trend to Cal-Maine's. 
+<img width="595" height="117" alt="image" src="https://github.com/user-attachments/assets/871f4b0f-9537-48a4-ba7b-487f061c5230" />
+
+
+### Cash Flow from Operations
+*2022 Prices natural rose to better align with the supply shock from HPAI. 
+Net cash flows from operations increased from 2021 - 2024, despite HPAI. $26,136, $126,209, $863,010, $451,398. 
+
+
 
 ### Sources:
 *U.S. Department of Agriculture, Animal and Plant Health Inspection Service. (2025, May 22). Highly pathogenic avian influenza emergency response. https://www.aphis.usda.gov/animal-emergencies/hpai)
