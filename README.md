@@ -12,3 +12,8 @@ However as of June 2025, the average retail price is still trend above pre HPAI 
 * Sustaining scarity or limitions in egg production.
 * Price manipulation and increased profits for egg manufactors and wholesellers.
 
+## Egg Production
+Cal-Maine Foods appears to be the largest producer of eggs in the United States. 
+* O’Keefe, T. (2025, January). The challenging and the good for US egg producers in 2025. Egg Industry. https://www.eggindustry-digital.com/eggindustry/january_2025/MobilePagedArticle.action?articleId=2032459
+* Dawson, M. (2024, February 5). Top 25 US egg producers in 2024. WATT Global Media. https://www.wattagnet.com/egg/article/15663503/top-25-us-egg-producers-in-2024
+* EssFeed. (2024, March 18). USA top 10 egg producers. https://essfeed.com/usa-top-10-egg-producers/
