@@ -29,16 +29,15 @@ In 2024, 2023, and 2022 Cal-Maine has acquired egg production assets(hens, about
 
 
 ### Cost of Goods:
-*2021 - 2022 
+* 2021 - 2022 
 Feeding costs per dozen rose about 28%. The war bewteen Russian & Ukraine caused increased fuel
 costs, transportation and fertilizers prices and strong export demand and restrictions further compounded the existing issues that contributed to near-historical low stocks-to-use ratios for corn worldwide and overall higher feed ingredient cost and price volatility.
-  
 Packaging and labor wages increased due to inflation and COVID related supply chain disruptions. 
 Amortization costs increased as well since more hens were obtained through M&A's. 
-*2023 - 2024
+
+* 2023 - 2024
  Total COGS dropped due to lower sales, bird flu.
  Feeding cost of hend also decreased. Reasons noted were to lower corn and soybean meal prices helped production costs stay low.
- 
 <img width="559" height="195" alt="image" src="https://github.com/user-attachments/assets/3737e282-1d33-413c-87ec-82a55cab41e6" />
 
 
@@ -47,14 +46,12 @@ Amortization costs increased as well since more hens were obtained through M&A's
  * Other egg manufactors and wholesellers have been following a similar trend to Cal-Maine's. 
 <img width="595" height="117" alt="image" src="https://github.com/user-attachments/assets/871f4b0f-9537-48a4-ba7b-487f061c5230" />
 
-*Common stock performance outdid market ETFs. During these reports no common stock buybacks from Cal-Maine or from any affilate occured. 
-
+ * Common stock performance outdid market ETFs. During these reports no common stock buybacks from Cal-Maine or from any affilate occured.
 <img width="205" height="203" alt="image" src="https://github.com/user-attachments/assets/809ecda5-7dc6-4187-8724-b1b154fdf701" />
 
 
 ### Cash Flow from Operations
-*2022 Prices natural rose to better align with the supply shock from HPAI. 
-Net cash flows from operations increased from 2021 - 2024, despite HPAI. $26,136, $126,209, $863,010, $451,398. 
+* 2022 Prices natural rose to better align with the supply shock from HPAI. Net cash flows from operations increased from 2021 - 2024, despite HPAI. $26,136, $126,209, $863,010, $451,398. 
 * Cal-Maine has reported more cash & equivalents for the same fiscal years. 
   $57M, $59M, $293M, and $238M respectfully. 
 
