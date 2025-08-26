@@ -33,7 +33,9 @@ In 2024, 2023, and 2022 Cal-Maine has acquired egg production assets(hens, about
 Feeding costs per dozen rose about 28%. The war bewteen Russian & Ukraine caused increased fuel
 costs, transportation and fertilizers prices and strong export demand and restrictions further compounded the existing issues that contributed to near-historical low stocks-to-use ratios for corn worldwide and overall higher feed ingredient cost and price volatility.
 Packaging and labor wages increased due to inflation and COVID related supply chain disruptions. 
-Amortization costs increased as well since more hens were obtained through M&A's. 
+Amortization costs increased as well since more hens were obtained through M&A's.
+*2022 -2023
+Logistics constaints. Delivery expenses increased due to higher fuel costs and labor costs. Increased competition for workers demanding higher wages and low attendance due to COVID-19 sickness inflationed outbound freight costs.  
 
 * 2023 - 2024
  Total COGS dropped due to lower sales, bird flu.
@@ -54,6 +56,8 @@ Amortization costs increased as well since more hens were obtained through M&A's
 * 2022 Prices natural rose to better align with the supply shock from HPAI. Net cash flows from operations increased from 2021 - 2024, despite HPAI. $26,136, $126,209, $863,010, $451,398. 
 * Cal-Maine has reported more cash & equivalents for the same fiscal years. 
   $57M, $59M, $293M, and $238M respectfully. 
+
+
 
 
 ### Sources:
