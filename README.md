@@ -34,7 +34,7 @@ Feeding costs per dozen rose about 28%. The war bewteen Russian & Ukraine caused
 costs, transportation and fertilizers prices and strong export demand and restrictions further compounded the existing issues that contributed to near-historical low stocks-to-use ratios for corn worldwide and overall higher feed ingredient cost and price volatility.
 Packaging and labor wages increased due to inflation and COVID related supply chain disruptions. 
 Amortization costs increased as well since more hens were obtained through M&A's.
-*2022 -2023
+* 2022 -2023
 Logistics constaints. Delivery expenses increased due to higher fuel costs and labor costs. Increased competition for workers demanding higher wages and low attendance due to COVID-19 sickness inflationed outbound freight costs.  
 
 * 2023 - 2024
@@ -57,7 +57,9 @@ Logistics constaints. Delivery expenses increased due to higher fuel costs and l
 * Cal-Maine has reported more cash & equivalents for the same fiscal years. 
   $57M, $59M, $293M, and $238M respectfully. 
 
-
+### Free Cash Flow 
+* Cal-Maine is gaining more investor confidence in its long term sustainablity as a market leader. Margins are increasing, cash flow has drastically improved, new bio security projects, and strategic acquisitions are boosting investor confidence.  
+<img width="494" height="227" alt="image" src="https://github.com/user-attachments/assets/3bc609ee-9e03-4cb9-bc9d-39a8907b02c5" />
 
 
 ### Sources:
@@ -65,4 +67,4 @@ Logistics constaints. Delivery expenses increased due to higher fuel costs and l
 * O’Keefe, T. (2025, January). The challenging and the good for US egg producers in 2025. Egg Industry. https://www.eggindustry-digital.com/eggindustry/january_2025/MobilePagedArticle.action?articleId=2032459
 * Dawson, M. (2024, February 5). Top 25 US egg producers in 2024. WATT Global Media. https://www.wattagnet.com/egg/article/15663503/top-25-us-egg-producers-in-2024
 * EssFeed. (2024, March 18). USA top 10 egg producers. https://essfeed.com/usa-top-10-egg-producers/
-
+* Hunter, D. (2024, October 29). HPAI impact and insights forum: Poultry and dairy trade impacts [PowerPoint presentation]. U.S. Poultry & Egg Association. https://www.uspoultry.org/HPAI/PDF/Hunter%20Presentation.pdf
